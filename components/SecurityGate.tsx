@@ -108,11 +108,7 @@ export const SecurityGate: React.FC<SecurityGateProps> = ({ onLogin }) => {
          <div className="inline-flex items-center justify-center w-14 h-14 bg-google-blue text-white rounded-2xl shadow-lg mb-5 animate-engine-pulse">
              <Cpu size={28} />
          </div>
-       <h2 className="text-xs font-medium tracking-widest text-gray-500 mb-1 uppercase">
-  清雁数智
-</h2>
 
-</h1>
          <h1 className="text-3xl font-black tracking-tighter text-gray-900 mb-2">
             数据资产价值评估引擎 <span className="text-google-blue text-lg font-mono font-medium">V1.0</span>
          </h1>
