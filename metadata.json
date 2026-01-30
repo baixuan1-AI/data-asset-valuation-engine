@@ -1,0 +1,9 @@
+{
+  "name": "Data Asset Valuation Engine V1.0",
+  "description": "A lightweight, professional engine for data asset valuation across Government, Enterprise, Education, and NGOs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
